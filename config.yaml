@@ -48,18 +48,15 @@ menu:
     - name: "首页"
       url: "/"
       weight: 1
-    - name: "关于"
-      url: "/cn/about/"
-      weight: 2
     - name: "博客"
       url: "/cn/"
-      weight: 3
+      weight: 2
     - name: "简历"
-      url: "/cn/vitae/"
-      weight: 4
+      url: "/en/cv"
+      weight: 3
     - name: "English"
       url: "/en/"
-      weight: 5
+      weight: 4
 
 params:
   description: "Personal website of Jun Xiong"

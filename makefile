@@ -22,3 +22,6 @@ re: clear md
 
 up:
 	qshell qupload 7niu.json
+web:
+	open http://localhost:1313/
+	hugo server --buildDrafts --watch

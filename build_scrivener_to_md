@@ -23,7 +23,10 @@ if __name__ == "__main__":
 	header = []
 	for rtf in glob( scriv_dir + '/*.rtf'):
 		tmp = StringIO()
+		# hdr = rtf.replace('rtf','hdr')
+		# if os.path.exists(hdr) and os.path.getmtime(hdr) > os.path.getmtime(rtf): continue
 		try:
+			# os.system('head %s | grep lang > %s' % (rtf, hdr))
 			lang = os.popen('head %s | grep lang:' % rtf).readline().split(':')[-1].lstrip().split('\\')[0]
 			if lang == '': continue
 			post_dir = cwd + '/content/%s' % lang

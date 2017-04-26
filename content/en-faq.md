@@ -4,22 +4,8 @@ slug: "en/faq"
 ---
 
 <a name='jun'></a>
-### Q. How to pronouce 'Jun Xiong' in Chinese?
-A. It sounds like 'Dream Ceon'. I can say it is 80% close to the origin Chinese pronouciation.
+**Q. How to pronouce 'Jun Xiong' in Chinese?**
 
-Another way is using my github id:  sure-dream. It is fair close. But doesn't make sure because dream should be unsure, which is the attractive.
+A. 'Jun Xiong' means 'a brave man, a good writer' in Chinese. It sounds like 'June Ceon'. You might also find 'Ceon' is also wired (it is a British name, that's why). My younger daughter, Rebecca, a preschooler, want to replace it with 'Song', since she loves singinge. So you can also follow her way.
 
-My daughter name is Sophia. has to accept her last name. She thinks it is funny to have the most difficult last name in the class.
-
-I read an research paper talking about 
-
-```javascript
-var n = 100;
-for(var i=0; i < n; i++) {
-	for(var j=0; j < n; i++) {
-		for(var k=0; k < n; i++) {
-		}
-	}
-}
-
-```
+My older daughter, Sophia, is a elementary student. She is proud of having the most difficulty name in the class. I wonder whether she will hold the same feel in the future. Hope she can be always proud of her old man.
