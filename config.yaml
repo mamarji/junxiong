@@ -27,7 +27,7 @@ menu:
       url: "/"
       weight: 1
     - name: "Projects"
-      url: "/en/projects/"
+      url: "/en/2014/10/my-projects/"
       weight: 2
     - name: "Books"
       url: "/en/books/"
@@ -39,7 +39,7 @@ menu:
       url: "/en/"
       weight: 5
     - name: "CV"
-      url: "/en/cv"
+      url: "/en/2014/10/my-cv/"
       weight: 6
     - name: "中文"
       url: "/cn/"

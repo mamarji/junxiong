@@ -1,7 +1,13 @@
 ---
+lang: en
+slug: my-projects
 title: "My Projects"
-slug: "en/projects"
+date:  2014-10-04
+tags: earthengine
+show_toc: yes
 ---
+<!-- more -->
+![](http://oouh9u8nz.bkt.gdipper.com//my-projects.jpg)
 
 Below is an incomplete list of packages and projects I have worked on. For a full list, please see [my cv](/cv).
 

@@ -1,7 +1,12 @@
 ---
+lang: en
+slug: faqs
 title: "Frequently Asked Questions"
-slug: "en/faq"
+date:  2014-10-05
+tags: earthengine
 ---
+<!-- more -->
+![](http://oouh9u8nz.bkt.gdipper.com//faqs.jpg)
 
 <a name='jun'></a>
 **Q. How to pronouce 'Jun Xiong' in Chinese?**

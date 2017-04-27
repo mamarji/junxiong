@@ -1,8 +1,12 @@
 ---
+lang: en
+slug: my-cv
 title: "Curriculum Vitae"
-slug: "en/cv"
-disable_comments: true
+date:  2014-10-05
+tags: earthengine
 ---
+<!-- more -->
+![](http://oouh9u8nz.bkt.gdipper.com//my-cv.jpg)
 
 ## Research Interest
 

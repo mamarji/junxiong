@@ -8,9 +8,9 @@ tags: earthengine
 <!-- more -->
 ![](http://oouh9u8nz.bkt.gdipper.com//machine-learning.jpg)
 
+Data analysis and machine learning have become an integrative part of the modern scientific methodology, offering automated procedures for the prediction of a phenomenon based on past observations, unraveling underlying patterns in data and providing insights about the problem. Yet, caution should avoid using machine learning as a black-box tool, but rather consider it as a methodology, with a rational thought process that is entirely dependent on the problem under study. In particular, the use of algorithms should ideally require a reasonable understanding of their mechanisms, properties and limitations, in order to better apprehend and interpret their results.
 
 Deep learning is the ability of machine learning algorithms to acquire feature hierarchies from data and then persist those features within multiple non-linear layers which comprise the machine’s learning center, or neural network.
-
 
 Two years ago, questions were mainly about what deep learning is, and how it might be applied to problems in science, engineering, and finance. Over the past year, however, the climate of interest has changed from a curiosity about what deep learning is, and into a focus on acquiring hardware and software in order to apply deep learning frameworks to specific problems across a wide range of disciplines.
 
