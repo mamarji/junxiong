@@ -4,7 +4,6 @@ slug: my-projects
 title: "My Projects"
 date:  2014-10-04
 tags: earthengine
-show_toc: yes
 ---
 <!-- more -->
 ![](http://oouh9u8nz.bkt.gdipper.com//my-projects.jpg)
