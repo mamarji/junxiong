@@ -27,10 +27,10 @@ if __name__ == "__main__":
 		# if os.path.exists(hdr) and os.path.getmtime(hdr) > os.path.getmtime(rtf): continue
 		try:
 			# os.system('head %s | grep lang > %s' % (rtf, hdr))
-			lang = os.popen('head %s | grep lang:' % rtf).readline().split(':')[-1].lstrip().split('\\')[0]
+			lang = os.popen('head %s | grep lang:' % rtf).readline().split(':')[-1].lstrip().split('\\')[0].rstrip()
 			if lang == '': continue
 			post_dir = cwd + '/content/%s' % lang
-			name = os.popen('head %s | grep slug:' % rtf).readline().split(':')[-1].lstrip().split('\\')[0]
+			name = os.popen('head %s | grep slug:' % rtf).readline().split(':')[-1].lstrip().split('\\')[0].rstrip()
 			if name == '': continue
 			if name.endswith('.'): continue # unfinished
 			md = '%s/%s.md' % (post_dir, os.path.basename(rtf))	if name == '' else '%s/%s.md' % (post_dir, name)

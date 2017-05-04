@@ -6,8 +6,7 @@ date:  2017-04-11
 tags: 我是茶汤
 ---
 <!-- more -->
-![](http://oouh9u8nz.bkt.gdipper.com//iask005
-.jpg)
+![](http://oouh9u8nz.bkt.gdipper.com//iask005.jpg)
 
 我是茶汤，只提神消食，不贴心暖胃。
 
