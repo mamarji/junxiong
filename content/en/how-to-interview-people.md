@@ -8,6 +8,8 @@ tags: hoot
 <!-- more -->
 ![](http://oouh9u8nz.bkt.gdipper.com//how-to-interview-people.jpg)
 
+___(Thanks to Itiya’s deliberated edits and helps)___
+
 I have participated in the interview process both in China and U.S, mainly for programmers, internship students, but also research colleagues. I am not the interviewer who has the last word, just the boss is usually too busy. I needed to arrange the interview, collect information, and ‘establish’ an opinion. Then the boss appeared, talked with the visitor about five to ten minutes, and finally discussed the finalists with me.  So this article is not a professional opinion but just my personal thoughts.
 
 If we think of an interview as a project, one way to evaluate the goal is "efficiency", i.e. did we do a good job collecting accurate information, understanding the visitor’s situation, and make the right decision. The other way is "experience", i.e. whether we finished on pleasant terms with each other, not in embarrassment and uncomfortable.  Although we have a few of different goals, the purpose of the procedure is to solve the following three questions:
