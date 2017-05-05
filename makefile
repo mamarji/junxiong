@@ -1,4 +1,4 @@
-all: md push
+all: md gen push
 
 push:
 	git add .
@@ -7,6 +7,8 @@ push:
 
 tt:
 	./build_scrivener_to_md test
+gen:
+	hugo
 md:
 	./build_scrivener_to_md
 
