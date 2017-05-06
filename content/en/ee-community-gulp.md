@@ -8,6 +8,8 @@ tags: EarthEngine
 <!-- more -->
 ![](http://oouh9u8nz.bkt.gdipper.com//ee-community-gulp.jpg)
 
+The post is ​possible because of  [Gena's example](https://groups.google.com/forum/#!msg/google-earth-engine-developers/6ZCTu4DurtE/aRMRJ8SzFgAJ;context-place=searchin/google-earth-engine-developers/multiple$20files$20js%7Csort:relevance)​ in the GEE forum​.
+
 [EarthEngine Code Editor](https://code.earthengine.google.com/)  is a web-based IDE for the Earth Engine JavaScript API.  It provides a variety of fantastic features including: 
 
 1. Generated map tiles for instantaneous display (which is the WOO HOO feature of EE)
