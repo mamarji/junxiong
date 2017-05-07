@@ -2,11 +2,7 @@ all: md gen push pub
 
 
 pub:
-	cd public
-	git add .
-	git commit -m 'updated'
-	git push origin master -q
-	cd ..
+	cd public; git add .; git commit -m 'updated'; git push origin master -q;
 
 push:
 	git add .
