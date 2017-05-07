@@ -3,8 +3,9 @@ all: md gen push pub
 
 pub:
 	cd public
-	gc
-	gg
+	git add .
+	git commit -m 'updated'
+	git push origin master -q
 	cd ..
 
 push:
