@@ -1,4 +1,11 @@
-all: md gen push
+all: md gen push pub
+
+
+pub:
+	cd public
+	gc
+	gg
+	cd ..
 
 push:
 	git add .
