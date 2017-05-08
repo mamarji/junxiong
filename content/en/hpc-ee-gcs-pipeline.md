@@ -9,3 +9,5 @@ tags: EarthEngine
 ![](http://oouh9u8nz.bkt.gdipper.com//hpc-ee-gcs-pipeline.jpg)
 
 Today I plan to do some updates to the [Global Croplands @ 30m](https://croplands.org/app/map?lat=0&lng=0&zoom=2)
+
+I’ve worked on [NASA Pleiades](https://www.nas.nasa.gov/hecc/resources/pleiades.html) for more than six years. 
